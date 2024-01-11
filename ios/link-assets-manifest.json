@@ -1,0 +1,57 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/SharpSans-Bold.ttf",
+      "sha1": "0447eec2be6a82857cc28de55e522759e5e010c9"
+    },
+    {
+      "path": "src/assets/fonts/SharpSans-BoldItalic.ttf",
+      "sha1": "a0c6eccdfff663874d62fe93a31b9358be4ba663"
+    },
+    {
+      "path": "src/assets/fonts/SharpSans-ExtraBoldItalic.ttf",
+      "sha1": "c172e11e202d98654e80f70df73aa28419135c18"
+    },
+    {
+      "path": "src/assets/fonts/SharpSans-Extrabold.ttf",
+      "sha1": "f1c2ea252d096674bdab84b521c7161ba36f257a"
+    },
+    {
+      "path": "src/assets/fonts/SharpSans-Italic.ttf",
+      "sha1": "4c4914d2c371448c56f5645bfcc65a42a4cdb3bd"
+    },
+    {
+      "path": "src/assets/fonts/SharpSans-Light.ttf",
+      "sha1": "72eaa5d1ed05011c8d1e9f88638cd7a3cd27655b"
+    },
+    {
+      "path": "src/assets/fonts/SharpSans-LightItalic.ttf",
+      "sha1": "69ff5bc292070febf37956919ce7bb4930418384"
+    },
+    {
+      "path": "src/assets/fonts/SharpSans-Medium.ttf",
+      "sha1": "4f7d5799a7d0da831c5e57f817e89aae6caeab36"
+    },
+    {
+      "path": "src/assets/fonts/SharpSans-Semibold.ttf",
+      "sha1": "94a0faca0cc2c3beedeadeeb1897459345cbc0e9"
+    },
+    {
+      "path": "src/assets/fonts/SharpSans-SemiboldItalic.ttf",
+      "sha1": "0446594815521f9546234952f8c162b93d6d2aa5"
+    },
+    {
+      "path": "src/assets/fonts/SharpSans-Thin.ttf",
+      "sha1": "f5a80706c4cd2eb51e4e1d35c73b04a1f8e05982"
+    },
+    {
+      "path": "src/assets/fonts/SharpSans.ttf",
+      "sha1": "3a0838d723e67503a719003c33a6f080f251594d"
+    },
+    {
+      "path": "src/assets/fonts/SharpSansDispNo1-Black.ttf",
+      "sha1": "5e56acf3c73bf4e1d6b9ae06ff7a8a7725aa401e"
+    }
+  ]
+}

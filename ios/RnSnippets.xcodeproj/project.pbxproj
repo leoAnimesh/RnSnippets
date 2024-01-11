@@ -12,8 +12,21 @@
 		13B07FBC1A68108700A75B9A /* AppDelegate.mm in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.mm */; };
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
+		1471900601EB45B0BA109587 /* SharpSans-SemiboldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 16FCC45910B148D083803AE4 /* SharpSans-SemiboldItalic.ttf */; };
+		2BB05ED51AAB47168C3E89BB /* SharpSansDispNo1-Black.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 1A7FFE7BB9844B768F4116A5 /* SharpSansDispNo1-Black.ttf */; };
+		5A5BF0D326EF48ADA6DBC190 /* SharpSans-ExtraBoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = E65B090760FE4928B41CBBD5 /* SharpSans-ExtraBoldItalic.ttf */; };
+		5BAB44B088CA46539BBAD0AB /* SharpSans-LightItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 248448060A0E4576955883CC /* SharpSans-LightItalic.ttf */; };
+		6BA0E2BCF52747E9B9F3A57B /* SharpSans-Semibold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 6BE90422718A413D97FC2248 /* SharpSans-Semibold.ttf */; };
 		7699B88040F8A987B510C191 /* libPods-RnSnippets-RnSnippetsTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 19F6CBCC0A4E27FBF8BF4A61 /* libPods-RnSnippets-RnSnippetsTests.a */; };
+		802D692076F8477FA05F2405 /* SharpSans-Extrabold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 83ED8D7A6F0D4337ABEB7FAA /* SharpSans-Extrabold.ttf */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
+		87585661D4A74698B0FAAB9F /* SharpSans-Thin.ttf in Resources */ = {isa = PBXBuildFile; fileRef = C050BD5DDD324214960DF504 /* SharpSans-Thin.ttf */; };
+		B0C89769F33E48B784583172 /* SharpSans-Italic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 868C6D47C2EC4234B3ABD46F /* SharpSans-Italic.ttf */; };
+		BA62E8AF117841F4B1112985 /* SharpSans-BoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 461C02B496F64D60ABDF2E9F /* SharpSans-BoldItalic.ttf */; };
+		C830672FD44347EC842BA224 /* SharpSans-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 851D4E3DB3EB488E85CF6C6B /* SharpSans-Light.ttf */; };
+		C9F164E3E73B41D8B0F1FB70 /* SharpSans.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 1A316C19E76B4705821401FD /* SharpSans.ttf */; };
+		CE56BA5E02804302AF5DD03E /* SharpSans-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F4742A6EAB82449699317CC8 /* SharpSans-Medium.ttf */; };
+		D58930C4C16B4078914DBC44 /* SharpSans-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = BC5D604210304DC0A0F3A9BF /* SharpSans-Bold.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,14 +49,27 @@
 		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = RnSnippets/Images.xcassets; sourceTree = "<group>"; };
 		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = RnSnippets/Info.plist; sourceTree = "<group>"; };
 		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = RnSnippets/main.m; sourceTree = "<group>"; };
+		16FCC45910B148D083803AE4 /* SharpSans-SemiboldItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "SharpSans-SemiboldItalic.ttf"; path = "../src/assets/fonts/SharpSans-SemiboldItalic.ttf"; sourceTree = "<group>"; };
 		19F6CBCC0A4E27FBF8BF4A61 /* libPods-RnSnippets-RnSnippetsTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-RnSnippets-RnSnippetsTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		1A316C19E76B4705821401FD /* SharpSans.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = SharpSans.ttf; path = ../src/assets/fonts/SharpSans.ttf; sourceTree = "<group>"; };
+		1A7FFE7BB9844B768F4116A5 /* SharpSansDispNo1-Black.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "SharpSansDispNo1-Black.ttf"; path = "../src/assets/fonts/SharpSansDispNo1-Black.ttf"; sourceTree = "<group>"; };
+		248448060A0E4576955883CC /* SharpSans-LightItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "SharpSans-LightItalic.ttf"; path = "../src/assets/fonts/SharpSans-LightItalic.ttf"; sourceTree = "<group>"; };
 		3B4392A12AC88292D35C810B /* Pods-RnSnippets.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RnSnippets.debug.xcconfig"; path = "Target Support Files/Pods-RnSnippets/Pods-RnSnippets.debug.xcconfig"; sourceTree = "<group>"; };
+		461C02B496F64D60ABDF2E9F /* SharpSans-BoldItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "SharpSans-BoldItalic.ttf"; path = "../src/assets/fonts/SharpSans-BoldItalic.ttf"; sourceTree = "<group>"; };
 		5709B34CF0A7D63546082F79 /* Pods-RnSnippets.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RnSnippets.release.xcconfig"; path = "Target Support Files/Pods-RnSnippets/Pods-RnSnippets.release.xcconfig"; sourceTree = "<group>"; };
 		5B7EB9410499542E8C5724F5 /* Pods-RnSnippets-RnSnippetsTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RnSnippets-RnSnippetsTests.debug.xcconfig"; path = "Target Support Files/Pods-RnSnippets-RnSnippetsTests/Pods-RnSnippets-RnSnippetsTests.debug.xcconfig"; sourceTree = "<group>"; };
 		5DCACB8F33CDC322A6C60F78 /* libPods-RnSnippets.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-RnSnippets.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		6BE90422718A413D97FC2248 /* SharpSans-Semibold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "SharpSans-Semibold.ttf"; path = "../src/assets/fonts/SharpSans-Semibold.ttf"; sourceTree = "<group>"; };
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = RnSnippets/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		83ED8D7A6F0D4337ABEB7FAA /* SharpSans-Extrabold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "SharpSans-Extrabold.ttf"; path = "../src/assets/fonts/SharpSans-Extrabold.ttf"; sourceTree = "<group>"; };
+		851D4E3DB3EB488E85CF6C6B /* SharpSans-Light.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "SharpSans-Light.ttf"; path = "../src/assets/fonts/SharpSans-Light.ttf"; sourceTree = "<group>"; };
+		868C6D47C2EC4234B3ABD46F /* SharpSans-Italic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "SharpSans-Italic.ttf"; path = "../src/assets/fonts/SharpSans-Italic.ttf"; sourceTree = "<group>"; };
 		89C6BE57DB24E9ADA2F236DE /* Pods-RnSnippets-RnSnippetsTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RnSnippets-RnSnippetsTests.release.xcconfig"; path = "Target Support Files/Pods-RnSnippets-RnSnippetsTests/Pods-RnSnippets-RnSnippetsTests.release.xcconfig"; sourceTree = "<group>"; };
+		BC5D604210304DC0A0F3A9BF /* SharpSans-Bold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "SharpSans-Bold.ttf"; path = "../src/assets/fonts/SharpSans-Bold.ttf"; sourceTree = "<group>"; };
+		C050BD5DDD324214960DF504 /* SharpSans-Thin.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "SharpSans-Thin.ttf"; path = "../src/assets/fonts/SharpSans-Thin.ttf"; sourceTree = "<group>"; };
+		E65B090760FE4928B41CBBD5 /* SharpSans-ExtraBoldItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "SharpSans-ExtraBoldItalic.ttf"; path = "../src/assets/fonts/SharpSans-ExtraBoldItalic.ttf"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
+		F4742A6EAB82449699317CC8 /* SharpSans-Medium.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "SharpSans-Medium.ttf"; path = "../src/assets/fonts/SharpSans-Medium.ttf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +132,26 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
+		449B4895399649DCBA79AA0A /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				BC5D604210304DC0A0F3A9BF /* SharpSans-Bold.ttf */,
+				461C02B496F64D60ABDF2E9F /* SharpSans-BoldItalic.ttf */,
+				E65B090760FE4928B41CBBD5 /* SharpSans-ExtraBoldItalic.ttf */,
+				83ED8D7A6F0D4337ABEB7FAA /* SharpSans-Extrabold.ttf */,
+				868C6D47C2EC4234B3ABD46F /* SharpSans-Italic.ttf */,
+				851D4E3DB3EB488E85CF6C6B /* SharpSans-Light.ttf */,
+				248448060A0E4576955883CC /* SharpSans-LightItalic.ttf */,
+				F4742A6EAB82449699317CC8 /* SharpSans-Medium.ttf */,
+				6BE90422718A413D97FC2248 /* SharpSans-Semibold.ttf */,
+				16FCC45910B148D083803AE4 /* SharpSans-SemiboldItalic.ttf */,
+				C050BD5DDD324214960DF504 /* SharpSans-Thin.ttf */,
+				1A316C19E76B4705821401FD /* SharpSans.ttf */,
+				1A7FFE7BB9844B768F4116A5 /* SharpSansDispNo1-Black.ttf */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
 		832341AE1AAA6A7D00B99B32 /* Libraries */ = {
 			isa = PBXGroup;
 			children = (
@@ -122,6 +168,7 @@
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
 				BBD78D7AC51CEA395F1C20DB /* Pods */,
+				449B4895399649DCBA79AA0A /* Resources */,
 			);
 			indentWidth = 2;
 			sourceTree = "<group>";
@@ -243,6 +290,19 @@
 			files = (
 				81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
+				D58930C4C16B4078914DBC44 /* SharpSans-Bold.ttf in Resources */,
+				BA62E8AF117841F4B1112985 /* SharpSans-BoldItalic.ttf in Resources */,
+				5A5BF0D326EF48ADA6DBC190 /* SharpSans-ExtraBoldItalic.ttf in Resources */,
+				802D692076F8477FA05F2405 /* SharpSans-Extrabold.ttf in Resources */,
+				B0C89769F33E48B784583172 /* SharpSans-Italic.ttf in Resources */,
+				C830672FD44347EC842BA224 /* SharpSans-Light.ttf in Resources */,
+				5BAB44B088CA46539BBAD0AB /* SharpSans-LightItalic.ttf in Resources */,
+				CE56BA5E02804302AF5DD03E /* SharpSans-Medium.ttf in Resources */,
+				6BA0E2BCF52747E9B9F3A57B /* SharpSans-Semibold.ttf in Resources */,
+				1471900601EB45B0BA109587 /* SharpSans-SemiboldItalic.ttf in Resources */,
+				87585661D4A74698B0FAAB9F /* SharpSans-Thin.ttf in Resources */,
+				C9F164E3E73B41D8B0F1FB70 /* SharpSans.ttf in Resources */,
+				2BB05ED51AAB47168C3E89BB /* SharpSansDispNo1-Black.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -466,6 +526,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 7A73HXM7AL;
 				ENABLE_BITCODE = NO;
 				INFOPLIST_FILE = RnSnippets/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -493,6 +554,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 7A73HXM7AL;
 				INFOPLIST_FILE = RnSnippets/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
